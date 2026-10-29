@@ -63,7 +63,7 @@ The team has scored $\ge 12$ points. Hence it does qualify.
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-29T08:45:43.620Z  
+**Submitted:** 2026-10-29T08:40:54.348Z  
 
 ```c_cpp
 #include <bits/stdc++.h>
