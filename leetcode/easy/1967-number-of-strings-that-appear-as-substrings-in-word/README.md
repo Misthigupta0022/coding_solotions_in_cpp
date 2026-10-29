@@ -58,9 +58,9 @@ Explanation: Each of the patterns appears as a substring in word "ab".
 ## Solution
 
 **Language:** C++  
-**Runtime:** 2 ms (beats 23.67%)  
-**Memory:** 11.7 MB (beats 45.59%)  
-**Submitted:** 2026-10-29T09:18:47.639Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 11.8 MB (beats 26.33%)  
+**Submitted:** 2026-10-29T09:19:16.660Z  
 
 ```cpp
 class Solution {
